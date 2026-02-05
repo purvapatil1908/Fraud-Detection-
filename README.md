@@ -35,5 +35,3 @@ No machine learning models are implemented in this project.
 
 ## Author
 * Purva Patil* | Python (EDA)
-2. Install dependencies using `pip install -r requirements.txt`
-3. Open the notebook in Jupyter and run cells sequentially
